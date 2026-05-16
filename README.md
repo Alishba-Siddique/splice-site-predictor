@@ -257,5 +257,3 @@ If you use this model or training code in your research, please cite:
 ```
 
 ---
-
-*Built as an MSc application portfolio project demonstrating CNN-based sequence modelling for computational genomics.*
