@@ -7,7 +7,6 @@ sdk: gradio
 sdk_version: 4.20.0
 app_file: app.py
 pinned: false
-license: mit
 tags:
   - biology
   - genomics
@@ -21,7 +20,6 @@ tags:
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)](https://pytorch.org)
 [![Gradio](https://img.shields.io/badge/Gradio-4.x-orange?logo=gradio)](https://gradio.app)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![HS3D Dataset](https://img.shields.io/badge/Data-HS3D-informational)](http://www.sci.unisannio.it/docenti/rampone/)
 
 Predict canonical **GT–AG splice donor and acceptor sites** in human DNA sequences using a dilated pre-activation residual convolutional neural network trained on the Human Splice-Site Data Set (HS3D).
