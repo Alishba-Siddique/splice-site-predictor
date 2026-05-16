@@ -15,6 +15,12 @@ tags:
   - pytorch
 ---
 
+
+
+https://github.com/user-attachments/assets/4dbe520a-8f36-4b09-af64-d7e779f4828e
+
+
+
 # 🧬 SpliceSiteResNet — Canonical Splice Site Predictor
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org)
